@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ftray.github.io/sitemap.xml
+Sitemap: https://Ftray.github.io/sitemap.xml
