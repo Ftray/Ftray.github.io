@@ -24,3 +24,6 @@ A quadratic element.💕
 From 2019 to 2023, I studied journalism at Shanghai University of Political Science and Law. During the undergraduate period, I learned news gathering and writing, network literature and cultural industry, film and television aerial photography language and special photography, film and television program packaging and production courses.
 
 In September 2023, I enrolled in the School of Journalism and Communication of Nanjing University to study for a postgraduate degree.
+
+2019-2023 Shanghai University of Political Science and Law
+2023-     Nanjing University
