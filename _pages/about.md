@@ -27,3 +27,5 @@ In September 2023, I enrolled in the School of Journalism and Communication of N
 
 2019-2023 Shanghai University of Political Science and Law
 2023-     Nanjing University
+
+![731697697125_ pic](https://github.com/Ftray/Ftray.github.io/assets/147336815/e5dd607e-f76a-4be7-bf6d-b55b7bb16bc2)
