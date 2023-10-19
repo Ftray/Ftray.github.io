@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first attempt at making a personal web page！✌🏼
+title: Start contact computation propagation✌🏼
 date: 2023-09-29 16:11:00-0400
 inline: false
 related_posts: false
